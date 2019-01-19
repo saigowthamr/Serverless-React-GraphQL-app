@@ -1,0 +1,16 @@
+{
+	"providers": {
+		"awscloudformation": {
+			"AuthRoleName": "awsgraphqlreact-20190118090307-authRole",
+			"UnauthRoleArn": "arn:aws:iam::825835605489:role/awsgraphqlreact-20190118090307-unauthRole",
+			"AuthRoleArn": "arn:aws:iam::825835605489:role/awsgraphqlreact-20190118090307-authRole",
+			"Region": "us-east-1",
+			"DeploymentBucketName": "awsgraphqlreact-20190118090307-deployment",
+			"UnauthRoleName": "awsgraphqlreact-20190118090307-unauthRole",
+			"StackName": "awsgraphqlreact-20190118090307",
+			"StackId": "arn:aws:cloudformation:us-east-1:825835605489:stack/awsgraphqlreact-20190118090307/c652e840-1ad1-11e9-8a4c-0aab6c3cae14"
+		}
+	},
+	"api": {},
+	"hosting": {}
+}
